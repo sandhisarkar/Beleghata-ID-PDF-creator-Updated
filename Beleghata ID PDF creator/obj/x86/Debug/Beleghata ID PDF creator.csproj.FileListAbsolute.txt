@@ -1,0 +1,38 @@
+C:\Users\SubhasishG\Desktop\Sandhi Software\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata_ID_PDF_creator.Form1.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata_ID_PDF_creator.Properties.Resources.resources
+C:\Users\SubhasishG\Desktop\Sandhi Software\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.csproj.GenerateResource.Cache
+C:\Users\SubhasishG\Desktop\Sandhi Software\Beleghata ID PDF creator\Beleghata ID PDF creator\bin\Debug\Beleghata ID PDF creator.exe
+C:\Users\SubhasishG\Desktop\Sandhi Software\Beleghata ID PDF creator\Beleghata ID PDF creator\bin\Debug\Beleghata ID PDF creator.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Beleghata ID PDF creator\Beleghata ID PDF creator\bin\Debug\NovaNet.Utils.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Beleghata ID PDF creator\Beleghata ID PDF creator\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.csprojResolveAssemblyReference.cache
+C:\Users\SubhasishG\Desktop\Sandhi Software\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.exe
+C:\Users\SubhasishG\Desktop\Sandhi Software\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.pdb
+D:\Sandhi Software New\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.exe
+D:\Sandhi Software New\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.pdb
+D:\Sandhi Software New\Beleghata ID PDF creator\Beleghata ID PDF creator\bin\Debug\Beleghata ID PDF creator.exe
+D:\Sandhi Software New\Beleghata ID PDF creator\Beleghata ID PDF creator\bin\Debug\Beleghata ID PDF creator.pdb
+D:\Sandhi Software New\Beleghata ID PDF creator\Beleghata ID PDF creator\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi Software New\Beleghata ID PDF creator\Beleghata ID PDF creator\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi Software New\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.csprojResolveAssemblyReference.cache
+D:\Sandhi Software New\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata_ID_PDF_creator.Form1.resources
+D:\Sandhi Software New\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata_ID_PDF_creator.Properties.Resources.resources
+D:\Sandhi Software New\Beleghata ID PDF creator\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.csproj.GenerateResource.Cache
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.csprojAssemblyReference.cache
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\obj\x86\Debug\Beleghata_ID_PDF_creator.Form1.resources
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\obj\x86\Debug\Beleghata_ID_PDF_creator.Properties.Resources.resources
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.csproj.GenerateResource.cache
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.csproj.CoreCompileInputs.cache
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.exe
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.pdb
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\bin\Debug\Beleghata ID PDF creator.exe.config
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\bin\Debug\Beleghata ID PDF creator.exe
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\bin\Debug\Beleghata ID PDF creator.pdb
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\bin\Debug\Microsoft.mshtml.dll
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\bin\Debug\NovaNet.Utils.dll.config
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Sandhi Software New\sandhi\Beleghata ID PDF creator Updated\Beleghata ID PDF creator\obj\x86\Debug\Beleghata ID PDF creator.csproj.CopyComplete
